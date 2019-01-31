@@ -1,5 +1,4 @@
 # hire-me
-Make a pull request to hire me. 
 
 Interested in me being on your team? Fork this repository, create a blank file in the applications directory with the company name and job title, and fill in the pull request.
 
